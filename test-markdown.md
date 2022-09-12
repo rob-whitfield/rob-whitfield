@@ -3,8 +3,7 @@ This is a test file so I can test markdown.
 ## Heading 2
 I'm going to test everything like **bold text** and *italic text*
 ### Heading 3
-The great Jarvis Cocker once said:
->I am not Jesus, but I have the same initials / I am the man who stays home and does the dishes
+I deleted some text earlier
 
 Here is a list of the Yakuza series ranked:
 1. Yakuza 0
